@@ -1,0 +1,21 @@
+body{background-color:#686362;}
+h1{color: #613C34;
+font-family: Impact;
+font-size: 45px;
+text-align: center;}
+p{color: #252327;
+font-family:Frnklin Gothic;
+font-size:20px;  }
+
+a{color: #9B60DC;
+font-family: Helvetica;
+font-size: 20px;
+text-decoration: none;
+background-color: grey;}
+
+a:hover{color:black;}
+
+ul{list-style: asterisks;}
+
+li{display: inline;
+margin-right: :25px;}
